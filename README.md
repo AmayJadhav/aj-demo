@@ -1,2 +1,3 @@
 # aj-demo
-This is my repository
+This is my repository.
+author - amay
